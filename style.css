@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+.mainimage {
+  width: 500px;
+  margin-left: 140px;
+  margin-top: -40px;
+}
+
+.hero {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+h1 {
+  font-family: Poppins;
+  font-weight: 800;
+  margin-top: 90px;
+  font-size: 80px;
+  margin-left: 60px;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.logo {
+  font-family: Tomatoes;
+  margin-left: 60px;
+  margin-top: 30px;
+  font-size: 25px;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.logo:hover {
+  font-size: 30px;
+}
+
+p {
+  font-family: Poppins;
+  margin-top: -30px;
+  font-weight: 500;
+  margin-left: 65px;
+  font-size: 30px;
+  color: #1b1b1b;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.hero1down {
+  margin-top: 200px;
+}
+
+.detail1 {
+  margin-top: 120px;
+}
+
+.contact {
+  font-size: 25px;
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: none;
+  border-radius: 1.3em;
+  color: white;
+  background-color: black;
+  cursor: pointer;
+  outline: none;
+  font-family: Poppins;
+  font-weight: 600;
+  margin-left: 60px;
+  margin-top: 25px;
+  border: solid 2px white;
+}
+
+.contact:hover {
+  color: black;
+  background-color: white;
+  border: solid 2px black;
+}
+
+.where {
+  margin-top: 200px;
+}
+
+.super {
+  background-color: #d43333;
+  color: white;
+}
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.oneecont {
+  position: absolute;
+  left: 700px;
+  top: 1280px;
+}
+
+span {
+  background-color: #26a16e;
+  color: white;
+}
+
+.insta {
+  font-family: Neoneon;
+  font-size: 200px;
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.insta:hover {
+  font-size: 230px;
+}
+
+.socialscont {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+button {
+  font-size: 25px;
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: none;
+  border-radius: 1.3em;
+  color: black;
+  background-color: white;
+  cursor: pointer;
+  outline: none;
+  font-family: Poppins;
+  font-weight: 600;
+  margin-left: 60px;
+  margin-top: 25px;
+  border: solid 2px black;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.contents {
+  margin-top: 200px;
+}
+/*# sourceMappingURL=style.css.map */
